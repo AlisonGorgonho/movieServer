@@ -1,0 +1,22 @@
+{
+  "name": "movieserver",
+  "version": "1.0.0",
+  "description": "Servidor local de filmes para redes domésticas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlisonGorgonho/movieServer.git"
+  },
+  "author": "Alison Gorgonho da Silva <alisongorgonho@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlisonGorgonho/movieServer/issues"
+  },
+  "homepage": "https://github.com/AlisonGorgonho/movieServer#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
